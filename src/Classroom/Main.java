@@ -18,6 +18,16 @@ public class Main {
 
         System.out.println("The area of the circle of radius: " +radius + " is " + area);
 
+        
+
     }
 
 }
+
+class Studernede {
+
+            public String navn;
+            public int alder;
+
+
+        }
